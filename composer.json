@@ -1,0 +1,12 @@
+{
+    "name": "kaleb/cron-taskmanager",
+    "description": "shceduler maneger",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kaleb borda fonseca",
+            "email": "kaleb.borda@gmail.com"
+        }
+    ],
+    "require": {}
+}
